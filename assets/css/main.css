@@ -2826,7 +2826,7 @@ input, select, textarea {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/back1.jpeg"), url("../../images/pic9.jpg");
+			background-image: url("images/back1.jpeg"), url("../../images/back1.jpeg");
 			background-size: auto,							cover;
 		}
 
@@ -2917,7 +2917,7 @@ input, select, textarea {
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/desk3.webp"), url("images/overlay2.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
+		background-image: url("images/desk3.webp"), url("images/desk3.webp"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
 
 		background-position: top left,						center center,					center center;
 		background-size: auto,							auto,							cover;
