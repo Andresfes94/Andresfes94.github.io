@@ -2812,7 +2812,7 @@ input, select, textarea {
 			opacity: 0.25;
 		}
 
-/* Main */
+/* Main  here i can modify the background*/
 
 	.main {
 		padding: 6em 0 4em 0 ;
@@ -2826,7 +2826,7 @@ input, select, textarea {
 			background-color: #333;
 			color: rgba(255, 255, 255, 0.75);
 			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../../images/header.jpg");
+			background-image: url("images/back1.jpeg"), url("../../images/pic9.jpg");
 			background-size: auto,							cover;
 		}
 
@@ -2910,16 +2910,17 @@ input, select, textarea {
 				color: #ffffff;
 			}
 
-/* Header */
+/* Header here i modified the header */
 
 	#header {
-		padding: 9em 0 9em 0 ;
+		padding: 10em 0 9em 0 ;
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
+		background-image: url("images/desk3.webp"), url("images/overlay2.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
+
 		background-position: top left,						center center,					center center;
-		background-size: auto,							cover,							cover;
+		background-size: auto,							auto,							cover;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
